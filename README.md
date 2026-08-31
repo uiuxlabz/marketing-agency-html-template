@@ -2,6 +2,10 @@
 
 A premium, framework-free HTML template for a digital marketing & creative agency. Vox Digital features a striking animated gradient hero, typing headline, services, portfolio, testimonials, team and blog — all built with clean HTML5, CSS3 and vanilla JavaScript.
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## 🎨 Design System
 
 | Token | Value | Usage |
